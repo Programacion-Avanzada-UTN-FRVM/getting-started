@@ -11,7 +11,7 @@ Navega a traves de la documentacion disponible de la catedra haciendo click sobr
    2. [Comandos basicos de Docker](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/00-preparacion/01-Uso-Basico-Docker.md)
 2. [**Base de Datos Relacional**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos)
    1. [Instalacion de base de datos](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos/01-Instalacion.md)
-   2. Configuracion
+   2. [Ejecucion de Instancia & Puertos](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos/02-Ejecucion.md)
    3. Entorno visual (Opcional)
 3. **Java SpringBoot**
    1. Instalacion y preparacion de entorno de desarrollo
