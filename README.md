@@ -3,7 +3,20 @@
 </h1>
 <p align="center">Este repositorio te ayudará a preparar todo lo necesario para cursar la materia con el menor atraso posible.</p>
 
-# Índice
+## Requisitos
+**Si consideras tener la experiencia suficiente para proceder sin necesidad de seguir un tutorial**, debajo te queda un listado de todas las cosas que necesitas para cursar la materia.
+
+Recuerda, solo procede a entrar a estos links si sabes lo que haces. Es recomendable que sigas los pasos descritos en el indice para instalar los requerimientos.
+
+- [**Docker Desktop**](https://www.docker.com/products/docker-desktop/): Plataforma de virtualizacion para levantar instancias de bases de datos principalmente.
+  - [Imagen de MariaDB/MySQL](https://hub.docker.com/_/mysql): **Recomendado por la catedra utilizar MySQL**.
+  - [Imagen de PostrgeSQL](https://hub.docker.com/_/postgres)
+- [**JDK 21 LTS**](https://www.oracle.com/ar/java/technologies/downloads/#java21): Requerido para ejecutar aplicaciones de Spring en el sistema operativo.
+- [**IntelliJ IDE**](https://www.jetbrains.com/idea/): IDE para desarrollar aplicaciones de Java con el framework de Spring, **recomendado por la catedra**.
+- [**Spring Initializr**](https://start.spring.io/): Web para la inicializacion de un nuevo proyecto de Springboot.
+- [**Node 20 LTS**](https://nodejs.org/en/download/prebuilt-installer): Utilizado para aplicaciones de front-end **React**; segunda parte del proyecto.
+
+## Índice
 Navega a traves de la documentacion disponible de la catedra haciendo click sobre el lugar deseado.
 
 1. [**Preparacion**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/00-preparacion)
