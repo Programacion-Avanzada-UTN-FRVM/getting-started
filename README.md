@@ -25,8 +25,10 @@ Navega a traves de la documentacion disponible de la catedra haciendo click sobr
 2. [**Base de Datos Relacional**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos)
    1. [Instalacion de base de datos](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos/01-Instalacion.md)
    2. [Ejecucion de Instancia & Puertos](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/01-base-de-datos/02-Ejecucion.md)
-   3. Entorno visual (Opcional)
-3. **Java SpringBoot**
+3. [**Pre-requisitos**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/02-prerequisitos)
+   1. [Instalacion de **Java 21**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/02-prerequisitos/01-JDK.md)
+   2. [Instalacion de **NodeJS 20**](https://github.com/Programacion-Avanzada-UTN-FRVM/getting-started/blob/main/02-prerequisitos/02-NodeJS.md)
+4. **Java SpringBoot**
    1. Instalacion y preparacion de entorno de desarrollo
    2. Conector de base de datos
    3. Dependencias (Testing, Spring Data + JPA)
