@@ -1,7 +1,7 @@
 # Instalación de Base de Datos Relacional
 
 ## 1. Selección
-Dentro de la cátedra, estarás realizando con un grupo a determinar un **proyecto integrador** de 4 entregas como máximo. Este proyecto requerirá el uso de una **base de datos relacional** a elección del grupo.
+Dentro de la cátedra, estarás realizando con un grupo a determinar un **proyecto integrador**. Este proyecto requerirá el uso de una **base de datos relacional** a elección del grupo.
 
 Lo recomendado es que todos los integrantes preparen el entorno de desarrollo local en sus computadoras de forma tal que no existan inconvenientes para que un integrante clone y ejecute el proyecto en cualquier instancia de tiempo. En este documento se detallará cómo instalar las bases de datos relacionales más utilizadas y recomendadas por la cátedra.
 
